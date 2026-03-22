@@ -101,6 +101,3 @@
 
  I love turning ideas into real-world web applications!
 
-##  Fun Fact
-
- I love turning ideas into real-world web applications!
