@@ -1,77 +1,88 @@
-## About Me
-
-Hi, I'm Shreyash Patil — a passionate Computer Engineering student from Pune with a strong interest in building scalable web applications.
-
- Strong in Java, OOP, and Data Structures & Algorithms, with hands-on experience in MERN stack development.
-
- Projects:
-- 🌦️ Weather Predictor (React + OpenWeather API)
-- 🏝️ WanderLust Travel App (Full-stack with authentication, maps, CRUD)
-
- Currently improving DSA and backend development.
-
- Aspiring Software Developer
-
- **sdp19405@gmail.com**
+<h1 align="center">Hi , I'm Shreyash Patil</h1>
+<h3 align="center"> Full Stack Developer | MERN Stack | Java | DSA Enthusiast</h3>
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-patil-63a18a310)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sdp19405@gmail.com)
+##  About Me
+
+-  B.Tech Computer Engineering student (CGPA: 8.99)
+-  Passionate about Full Stack Development (MERN Stack)
+-  Currently learning Data Structures & Algorithms (DSA)
+- Strong foundation in Java & Object-Oriented Programming
+-  Love building scalable and user-friendly web applications
+-  Pune, Maharashtra
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect With Me
 
-### 🚀 Languages & Core
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend & Tools
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-
-### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### 🛠️ Other Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shreyash-patil-63a18a310/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shreyash%20Patil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sdp19405@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sdp19405-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+##  Projects
 
-![](https://nirzak-streak-stats.vercel.app/?user=sdp19405-web&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdp19405-web&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-![](https://visitcount.itsvg.in/api?id=sdp19405-web&icon=0&color=0)
+###  Weather Predictor  
+🔗 https://github.com/sdp19405-web/weather-predictor  
+- Built using React.js & Material UI  
+- Fetches real-time weather data using OpenWeather API  
+- Clean and responsive UI  
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=sdp19405-web&icon=0&color=0)
+###  WanderLust (Travel Booking App)  
+🔗 https://github.com/sdp19405-web/wanderlust  
+- Full-stack MERN application  
+- Features: Authentication, CRUD operations, Image upload, Maps  
+- Tech: Node.js, Express.js, MongoDB  
+
+---
+
+##  Tech Stack
+
+###  Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+
+###  Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/MaterialUI-blue?style=for-the-badge&logo=mui)
+
+###  Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sdp19405-web&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdp19405-web&theme=radical" />
+</p>
+
+---
+
+##  Fun Fact
+
+💡 I love turning ideas into real-world web applications!
