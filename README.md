@@ -1,5 +1,4 @@
-# 💫 About Me:
-👨‍💻 **About Me**<br><br>Hi, I'm Shreyash Patil — a passionate Computer Engineering student from Pune with a strong interest in building scalable and efficient web applications.<br><br>💡 I have a solid foundation in **Java, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA)**, along with hands-on experience in **full-stack development using the MERN stack (MongoDB, Express.js, React.js, Node.js)**.<br><br>🚀 I enjoy turning ideas into real-world projects, such as:<br><br>* 🌦️ A **React-based Weather Predictor** using OpenWeather API<br>* 🏝️ A **WanderLust Travel App** with authentication, maps, and full CRUD functionality<br><br>🛠️ Tech I work with:<br><br>* **Languages:** Java, JavaScript, SQL<br>* **Frontend:** React.js, HTML, CSS, Bootstrap, Material UI<br>* **Backend:** Node.js, Express.js<br>* **Database:** MongoDB, SQL<br>* **Tools:** Git, GitHub, VS Code<br><br>📚 Currently focused on improving my problem-solving skills and exploring advanced backend and system design concepts.<br><br>🎯 I’m looking for opportunities to contribute, learn, and grow as a **Software Developer**.<br><br>📫 Reach me at: **[sdp19405@gmail.com](mailto:sdp19405@gmail.com)**<br>
+
 
 
 ## 🌐 Socials:
