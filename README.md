@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Shreyash Patil</h1>
-<h3 align="center"> Full Stack Developer | MERN Stack | Java | DSA Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Java | DSA Enthusiast</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shreyash-patil-63a18a310/" target="_blank">
@@ -27,7 +27,7 @@
 
 ---
 
-##  Projects
+## Projects
 
 ###  Weather Predictor  
 🔗 https://github.com/sdp19405-web/weather-predictor  
@@ -59,15 +59,29 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![Material UI](https://img.shields.io/badge/MaterialUI-blue?style=for-the-badge&logo=mui)
 
-###  Backend
+### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![EJS](https://img.shields.io/badge/EJS-brown?style=for-the-badge)
+![Nodemon](https://img.shields.io/badge/Nodemon-green?style=for-the-badge)
 
-### 🗄️ Database
+###  Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-darkgreen?style=for-the-badge&logo=supabase)
 
-### 🛠️ Tools
+###  Hosting
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-purple?style=for-the-badge&logo=render)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-blue?style=for-the-badge&logo=googlecloud)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+
+###  Design
+![Adobe](https://img.shields.io/badge/Adobe-red?style=for-the-badge&logo=adobe)
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
+
+###  Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
@@ -85,4 +99,8 @@
 
 ##  Fun Fact
 
-💡 I love turning ideas into real-world web applications!
+ I love turning ideas into real-world web applications!
+
+##  Fun Fact
+
+ I love turning ideas into real-world web applications!
